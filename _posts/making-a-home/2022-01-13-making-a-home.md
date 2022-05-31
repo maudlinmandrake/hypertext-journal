@@ -2,7 +2,7 @@
 title: Making a home on the Internet 🏠
 date: 2022-01-13 @6:34PM
 modified: 2022-01-14 @9:29AM
-tags: [marginalia, writing]
+tags: [Marginalia, Writing]
 image:
  path: making-ogp.png
  width: 1200
