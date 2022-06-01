@@ -4,8 +4,9 @@ date: 2022-06-01 @1:51PM
 modified:
 tags: [The Reading Life]
 image:
- path: anna-karenina.jpg
- width: 600
+ path: ogp.png
+ width: 1200
+ height: 630
 ---
 ![The author's pale, tattooed arm holding a copy of Tolstoy's "Anna Karenina." There are various houseplants in the background, threatening to overtake the home](anna-karenina.jpg)
 
