@@ -9,8 +9,8 @@ mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name:  # author name
-  bio: >- # tell to the world
+  name:  Jenny Mikac
+  bio: Artist, writer and self-taught programmer # tell to the world
   username: username # general username
   github: maudlinmandrake # github username
   twitter: jennymikac # twitter username
@@ -22,7 +22,6 @@ url: "https://jennymikac.com" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
-fb_appid:
 
 # Collection setting
 collections:
