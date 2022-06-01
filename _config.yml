@@ -1,6 +1,6 @@
 # Site settings
 title: Jenny Mikac # site title
-description: >- # site description
+description: Journal of a wannabe-polymath musing about books, self-directed learning and art # site description
 lang: en-US # default lang
 timezone: USA/Indianapolis # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
