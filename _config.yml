@@ -10,7 +10,7 @@ mode: light # default theme "dark" | "light"
 # Profile settings
 author:
   name:  Jenny Mikac
-  bio: Artist, writer and self-taught programmer # tell to the world
+  bio: Artist and writer thinking about books, self-directed learning, parenting, and coding # tell to the world
   username: username # general username
   github: maudlinmandrake # github username
   twitter: jennymikac # twitter username
