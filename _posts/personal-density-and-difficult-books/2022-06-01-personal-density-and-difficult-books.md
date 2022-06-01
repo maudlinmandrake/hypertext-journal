@@ -3,10 +3,7 @@ title: Personal density and difficult books
 date: 2022-06-01 @1:51PM
 tags: [The Reading Life]
 description: Thinking about difficult books and the merits of banging your head against them repeatedly.
-image:
- path: personal-density-and-difficult-books/ogp.png
- width: 1200
- height: 630
+image: personal-density-and-difficult-books/ogp.png
 ---
 ![The author's pale, tattooed arm holding a copy of Tolstoy's "Anna Karenina." There are various houseplants in the background, threatening to overtake the home](anna-karenina.jpg)
 
