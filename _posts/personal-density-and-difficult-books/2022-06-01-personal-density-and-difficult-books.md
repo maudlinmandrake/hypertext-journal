@@ -3,7 +3,11 @@ title: Personal density and difficult books
 date: 2022-06-01 @1:51PM
 modified:
 tags: [The Reading Life]
+image:
+ path: anna-karenina.jpg
+ width: 600
 ---
+![The author's pale, tattooed arm holding a copy of Tolstoy's "Anna Karenina." There are various houseplants in the background, threatening to overtake the home](anna-karenina.jpg)
 
 I have been obsessed with the idea of dedicating myself wholly to classic texts lately. Initially, it was the aesthetics appeal to me. I imagine myself an an oversize sweater, a cup of Earl Grey next to me, sitting on ancient couch in front of a roaring fire, a copy of _War and Peace_ in my lap. It’s a comforting image. Like a favorite childhood stuffy, or a pacifier. It’s relaxing. It’s peaceful. It’s the opposite of everything I am right now. And right now, what I am is perpetually wound up, with my face buried in my phone. Depressed. Anxious. Willingly drowning myself in one piece of bad news after another. It’s sad. It reeks of a lack of willpower and discipline. Of control.
 
