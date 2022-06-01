@@ -1,5 +1,5 @@
 ---
-title: Jenny Mikac >> Personal density and difficult books
+title: Personal density and difficult books
 date: 2022-06-01 @1:51PM
 tags: [The Reading Life]
 description: Thinking about difficult books and the merits of banging your head against them repeatedly.
