@@ -3,7 +3,7 @@ title: Personal density and difficult books
 date: 2022-06-01 @1:51PM
 modified:
 tags: [The Reading Life]
-image: /ogp.png
+image: personal-density-and-difficult-books/ogp.png
 ---
 ![The author's pale, tattooed arm holding a copy of Tolstoy's "Anna Karenina." There are various houseplants in the background, threatening to overtake the home](anna-karenina.jpg)
 
