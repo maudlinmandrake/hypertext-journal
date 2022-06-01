@@ -3,10 +3,7 @@ title: Making a home on the Internet 🏠
 date: 2022-01-13 @6:34PM
 modified: 2022-01-14 @9:29AM
 tags: [Marginalia, Writing]
-image:
- path: making-ogp.png
- width: 1200
- height: 630
+image: making-ogp.png
 ---
 
 ![A minimalist white icon depicting a house on a black background](making-a-home.png)
