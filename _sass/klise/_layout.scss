@@ -1,5 +1,6 @@
 // Navbar
 .navbar {
+  font-style: italic;
   height: auto;
   max-width: calc(#{$wide-size} - (#{$spacing-full} * 2));
   max-width: -webkit-calc(#{$wide-size} - (#{$spacing-full} * 2));
@@ -203,11 +204,16 @@
   }
 
   .author-name {
+    font-style: italic;
+    font-weight: $black-weight;
     font-size: 1.7em;
     margin-bottom: 2px;
   }
 
   .author-bio {
+    font-weight: $light-weight;
+    font-style: italic;
+    font-size: 1.2em;
     margin: 0 auto;
     opacity: 0.9;
     max-width: 393px;

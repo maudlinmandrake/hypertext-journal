@@ -10,6 +10,10 @@
   url: /now/
   external: false
 
+- title: notes
+  url: http://thecodexvitae.tumblr.com
+  external: true
+
 - title: archive
   url: /archive/
   external: false

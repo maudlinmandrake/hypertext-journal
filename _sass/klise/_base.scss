@@ -264,7 +264,8 @@ em {
 
 // Blockquotes
 blockquote {
-  color: $gray;
+  color: $black;
+  font-weight: $light-weight;
   font-style: italic;
   text-align: left;
   opacity: 0.99;
@@ -279,6 +280,10 @@ blockquote {
     margin-bottom: 0;
     margin-top: 0;
   }
+}
+
+blockquote a {
+  font-weight: $black-weight;
 }
 
 // Wrapper
