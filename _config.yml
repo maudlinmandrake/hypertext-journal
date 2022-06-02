@@ -10,7 +10,7 @@ mode: light # default theme "dark" | "light"
 # Profile settings
 author:
   name: Jenny Mikac
-  bio: Artist and writer thinking out loud about whatever they're currently hyperfocsed on. Currently - old books, creativity, coding, philosophy, and diaries. # tell to the world
+  bio: Artist and writer thinking out loud about whatever they're currently hyperfocused on. Currently - old books, creativity, coding, philosophy, and diaries. # tell to the world
   username: username # general username
   github: maudlinmandrake # github username
   twitter: jennymikac # twitter username
