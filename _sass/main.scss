@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Fraunces:ital,wght@0,100;0,400;0,700;0,900;1,100;1,400;1,700;1,900&display=swap');
 // Fonts preferences
-$sans-family: Fraunces, Georgia, serif;
+$sans-family: "et-book", "Palatino", "Times New Roman", serif;
 $mono-family: Victor Mono, monospace;
-$base-font-size: 16px;
+$base-font-size: 18px;
 $medium-font-size: $base-font-size * 0.938;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.85;
@@ -15,25 +15,25 @@ $black-weight: 900; // uncomment if necessary
 
 //Light Colors
 $text-base-color: #434648;
-$text-link-blue: #DAAFFF;
-$text-link-blue-active: #DAAFFF;
+$text-link-blue: darkred;
+$text-link-blue-active: darkred;
 
-$black: #0d122b;
+$black: #000;
 $light: #ececec;
 $smoke: #d2c7c7;
-$gray: #6b7886;
-$white: #fff;
+$gray: #a8a094;
+$white: #fffff8;
 
 // Dark Colors
-$dark-text-base-color: #c7bebe;
-$dark-text-link-blue: #ffccf1;
-$dark-text-link-blue-active: #ffccf1;
+$dark-text-base-color: #f6e7d5;
+$dark-text-link-blue: #db6057;
+$dark-text-link-blue-active: #db6057;
 
-$dark-black: #131418;
-$dark-white: #eaeaea;
-$dark-light: #1b1d25;
+$dark-black: #3d3429;
+$dark-white: #f6e7d5;
+$dark-light: #b0a08d;
 $dark-smoke: #4a4d56;
-$dark-gray: #767f87;
+$dark-gray: #b0a08d;
 
 // Width of the content area
 $wide-size: 890px;
