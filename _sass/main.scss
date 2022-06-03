@@ -2,20 +2,20 @@
 // Fonts preferences
 $sans-family: "et-book", "Palatino", "Times New Roman", serif;
 $mono-family: Victor Mono, monospace;
-$base-font-size: 18px;
+$base-font-size: 20px;
 $medium-font-size: $base-font-size * 0.938;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.85;
 
 // Font weight
 $light-weight: 100; // uncomment if necessary
-$normal-weight: 400;
+$normal-weight: 500;
 $bold-weight: 700;
 $black-weight: 900; // uncomment if necessary
 
 //Light Colors
 $text-base-color: #434648;
-$text-link-blue: darkred;
+$text-link-blue: #8b0000;
 $text-link-blue-active: darkred;
 
 $black: #000;
