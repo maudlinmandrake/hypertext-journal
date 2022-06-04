@@ -14,6 +14,10 @@
   url: http://notes.jennymikac.com
   external: true
 
+- title: art
+  url: http://art.jennymikac.com
+  external: true
+
 - title: archive
   url: /archive/
   external: false
