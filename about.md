@@ -22,7 +22,7 @@ Right now I feel very homeless on the web, with bits and pieces of me scattered 
     3. **Astrology** Aries Rising / Taurus Moon / Capricorn Sun  
 5. **Work** Currently, teaching assistant for _Girls Who Code_'s summer immersion program
 6. **Loves** Old books, cracking open a new Moleskine, black metal on vinyl, my obnoxiously pink & purple mechanical keyboard, Neil Gaiman's _The Sandman_, David Lowery's _The Green Knight_, J.R.R. Tolkien, mythology and fairy tales, rose milk tea, a strong Americano, tarot cards; the work of Georgia O'Keefe, Frida Kahlo, Yayoi Kusama, Lee Krasner, Elain de Kooning, Helen Frankenthaler, and Joan Mitchell
-7. **Influences** Austin Kleon, Julia Cameron, Lynda Barry, Natalie Goldberg, Michel de Montaigne, Anaïs Nin, Clarissa Pinkola Estés
+7. **Influences** Austin Kleon, Julia Cameron, Lynda Barry, Natalie Goldberg, Michel de Montaigne, Anaïs Nin, Clarissa Pinkola Estés, Octavia Butler, Benebell Wen
 
 
 ***  
