@@ -206,6 +206,7 @@ h5,
 h6 {
   color: $black;
   font-weight: $bold-weight;
+  font-style: italic;
   & + ul,
   & + ol {
     margin-top: 10px;
