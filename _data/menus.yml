@@ -18,6 +18,10 @@
   url: http://art.jennymikac.com
   external: true
 
+- title: newsletter
+  url: https://jennymikac.substack.com
+  external: true
+
 - title: archive
   url: /archive/
   external: false
