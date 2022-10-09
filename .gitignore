@@ -7,4 +7,5 @@ klise-*.gem
 Gemfile.lock
 .DS_Store
 workspace.code-workspace
+.obsidian/
 
